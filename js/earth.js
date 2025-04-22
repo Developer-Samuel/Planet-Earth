@@ -109,8 +109,6 @@ window.addEventListener('mousemove', onMouseMove, false);
 window.addEventListener('mousedown', onMouseDown, false);
 window.addEventListener('mouseup', onMouseUp, false);
 
-
-
 // Function to handle window resize.
 function onWindowResize() {
   // Update camera aspect ratio and renderer size.
